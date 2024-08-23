@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+body{
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/343/838/535/bike-car-ferrari-cars-ferrari-hd-art-wallpaper-preview.jpg);
+    
+    background-size:cover ;
+
+}
+button{
+  padding: 30px;
+  margin: 10px;
+  background-color: rgb(8, 59, 95);
+  color: white;
+  border-radius: 20px;
+}
